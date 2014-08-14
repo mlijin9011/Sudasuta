@@ -1,0 +1,35 @@
+/* 
+  Localizable.strings
+  Sudasuta
+
+  Created by user on 14-3-14.
+  Copyright (c) 2014年 user. All rights reserved.
+*/
+
+"cancel" = "取消";
+"ok" = "确定";
+
+"image_category_all" = "全部";
+
+"no_more_images" = "没有更多图片...";
+
+"search_local_search" = "本地搜索";
+"search_network_search" = "网络搜索";
+"search_theme_tag" = "主题";
+"search_no_images" = "没有您要搜索的图片...";
+"search_network_error" = "网络异常";
+
+"group_description_category" = "分类";
+"group_description_tag" = "标签";
+
+"image_share" = "分享图片: ";
+
+"alert_clear_cache" = "确认清除缓存？";
+"alert_cancel_favorite" = "确定要取消收藏吗？";
+"alert_save_image_success_title" = "存储照片成功";
+"alert_save_image_success_content" = "您已将照片存储于图片库中，请到\“照片\”中查看和操作。";
+"alert_save_image_failed_title" = "存储照片失败";
+"alert_save_image_failed_content" = "请在隐私设置中设置允许程序访问照片库。";
+
+"alert_app_version_update" = "版本有更新";
+"alert_sure_to_update" = "确认要更新吗？";

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>卡通动漫</key>
+	<string></string>
+	<key>动物</key>
+	<string></string>
+	<key>影视</key>
+	<string></string>
+	<key>游戏</key>
+	<string></string>
+	<key>植物花卉</key>
+	<string></string>
+	<key>风景</key>
+	<string></string>
+	<key>明星</key>
+	<string></string>
+	<key>名车</key>
+	<string></string>
+</dict>
+</plist>
